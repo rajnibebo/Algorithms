@@ -26,6 +26,7 @@ public class StackApplicationForParenthesisMatching {
                     return false;
                 }
             }
+            System.out.println(stack);
         }
 
         return stack.empty();

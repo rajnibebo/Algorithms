@@ -28,6 +28,7 @@ public class MatchingMultipleBracketsUsingStack {
                 }
 
             }
+            System.out.println(stack);
         }
         return stack.empty();
     }
